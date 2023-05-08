@@ -1,1 +1,5 @@
 # mnist-arduino-tflite
+# MNIST2.ipynb
+Jypter noteboot used to train original MNIST model. 
+# 
+Arduino IDE file used to test compatability and efficiency of model on edge device.
